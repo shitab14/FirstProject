@@ -43,7 +43,7 @@ public class CameraController : MonoBehaviour {
 			
 
 
-		transform.position = pos;
+		//transform.position = pos;
 	}
 
 	public void goback(){
